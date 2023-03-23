@@ -20,7 +20,12 @@ nav:
     - F.A.Q.: main/FAQ.md
   - 统计课程:
     - 统计课程: course/index.md
-    - 树洞统辅课程测评搬运: course/thuhole122635.md
+    - 树洞统辅课程测评搬运:
+      - course/thuhole122635/index.md
+      - 课程教师: course/thuhole122635/instructor.md
+      - 课程测评: course/thuhole122635/course.md
+      - 先修关系: course/thuhole122635/workflow.md
+      - 引用资源: course/thuhole122635/resource.md
   - 知识:
     - 知识: knowledge/index.md
   - 科研相关:
@@ -38,13 +43,14 @@ theme:
     # logo: material/sigma-lower
     
     repo: fontawesome/brands/git-alt
-  logo: assets/images/logo.png
-  favicon: assets/images/favicon.jpg
+  logo: assets/icon/logo.png
+  favicon: assets/icon/favicon.jpg
   language: zh
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       primary: deep purple
+      accent: deep purple
       scheme: default
       toggle:
         icon: material/brightness-7
@@ -52,6 +58,7 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       primary: deep purple
+      accent: deep purple
       scheme: slate
       toggle:
         icon: material/brightness-4
@@ -60,13 +67,60 @@ theme:
   custom_dir: overrides
   features:
     - navigation.tabs
-    - navigation.sections
-    - navigation.path
+    - navigation.indexes 
     - navigation.top
     - header.autohide
     - announce.dismiss
+    - navigation.footer
   font:
     text: 'Fira Sans'
     code: 'Fira Mono'
-  plugins:
-    - tags
+
+
+
+# Others
+extra_javascript:
+  - 'https://cdn.jsdelivr.net/npm/mathjax@2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+
+plugins:
+  - search:
+      lang:
+          - en
+          - ja
+      separator: '[\s\-\.]+'
+
+extra:
+  social:
+    - icon: material/link
+      link: http://www.stat.tsinghua.edu.cn
+      name: Tsinghua Statistics
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: true
+  - footnotes
+  - def_list
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+  - meta
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.keys
+  - pymdownx.snippets
+  - pymdownx.progressbar
+
