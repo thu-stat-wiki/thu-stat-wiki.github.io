@@ -4,17 +4,21 @@ comments: true
 
 # Welcome to THU Stat Wiki
 
-This page is based on [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
-## Commands
+你好！这里是统计资源共享站 THU Stat Wiki，本项目目前还在初期修建过程中。希望本项目为同学们提供一个信息汇总平台，帮助大家学习统计知识、交流学习感想、打破信息壁垒。目前计划包含统计知识、课程介绍、统计科研、保研&出国等板块，相应内容正在不断完善中。
+<!-- 待目录稳定后可在此加入超链接 -->
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+与校内其它院系的互助文档稍有不同的是，统计中心由于本身没有本科组织，主要的学生成员都来自[统计学辅修项目](http://www.stat.tsinghua.edu.cn/programs/undergraduate-programs/)，且统计也是一门在各个领域都有相当应用的知识工具。这两个特点决定了参加统辅课或对统计感兴趣的同学来自各个院系，有着不同的学科知识背景、抱着不同的学习目的和关注来参与统辅课程或来了解统计，所以我们也希望本站中的许多信息内容能够覆盖来自各种背景、经历、目的的同学，你也许：
 
-## Project layout
+- 想要开始学习统计但不知道课程内容是否适合自己
+- 学习过程中产生困惑希望得到前人的经验和帮助
+- 想快速了解一些统计知识指导实证研究
+- 有意未来从事统计方向或与本学科的交叉领域科研
+- 计划在统计方向继续深造
+- etc.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+我们都希望你能在这里得到一些实用信息，也非常鼓励你[加入我们](main/join.md)，在 Wiki 中投稿与大家分享自己的知识、想法、经历，你的足迹能够为后来者提供很重要的引导，欢迎你为本项目添砖加瓦！
+
+------------------
+
+
+本项目基于[Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)，开发过程参考了[OI Wiki](https://oi-wiki.org/), [计算机系学生科协技能引导文档](https://docs.net9.org/), [ReadMe 软件学院互助文档](https://ssast-readme.github.io/), [未央学习](https://weyoung-learn.github.io/)。

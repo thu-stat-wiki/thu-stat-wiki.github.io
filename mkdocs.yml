@@ -1,6 +1,42 @@
+# The Project
 site_name: THU-Stat-Wiki
+site_description: THU Stat Wiki 是一个清华统辅课信息的汇聚站点，为大家学习统计知识、打破信息壁垒提供一个良好的平台。
+site_author: THU Stat Wiki Team
+site_url: https://thu-stat-wiki.github.io
+
+# Repository
+repo_name: THU Stat Wiki
+repo_url: https://github.com/thu-stat-wiki/
+
+# Copyright
+copyright: 'Copyright &copy; 2023 THU Stat Wiki Team'
+
+# Content nav
+nav:
+  - 首页: 
+    - Welcome: index.md
+    - 关于: main/about.md
+    - 加入我们: main/join.md
+    - F.A.Q.: main/FAQ.md
+  - 统计课程:
+    - 统计课程: course/index.md
+    - 树洞统辅课程测评搬运: course/thuhole122635.md
+  - 知识:
+    - 知识: knowledge/index.md
+  - 科研相关:
+    - 科研相关: research/index.md
+  - 保研出国:
+    - 保研出国: placement/index.md
+  - 实用链接:
+    - 实用链接: link/index.md
+
+
+# Theme
 theme:
   name: material
+  icon:
+    logo: material/sigma-lower
+    repo: fontawesome/brands/git-alt
   language: zh
   palette:
     # Palette toggle for light mode
@@ -10,8 +46,6 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-        
-
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       primary: deep purple
@@ -21,3 +55,15 @@ theme:
         name: Switch to light mode
         
   custom_dir: overrides
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.path
+    - navigation.top
+    - header.autohide
+    - announce.dismiss
+  font:
+    text: 'Fira Sans'
+    code: 'Fira Mono'
+  plugins:
+    - tags
