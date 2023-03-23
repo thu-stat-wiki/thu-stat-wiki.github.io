@@ -56,6 +56,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://thu-stat-wiki.github.io/main/format/</loc>
+         <lastmod>2023-03-23</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://thu-stat-wiki.github.io/main/join/</loc>
          <lastmod>2023-03-23</lastmod>
          <changefreq>daily</changefreq>

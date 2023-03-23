@@ -16,8 +16,9 @@ nav:
   - 首页: 
     - Welcome: index.md
     - 关于: main/about.md
-    - 加入我们: main/join.md
-    - F.A.Q.: main/FAQ.md
+    - 参与投稿: main/join.md
+    # - 文档元素: main/format.md
+    - F. A. Q.: main/FAQ.md
   - 统计课程:
     - 统计课程: course/index.md
     - 树洞统辅课程测评搬运:
