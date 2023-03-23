@@ -6,7 +6,7 @@ site_url: https://thu-stat-wiki.github.io
 
 # Repository
 repo_name: THU Stat Wiki
-repo_url: https://github.com/thu-stat-wiki/
+repo_url: https://github.com/thu-stat-wiki/thu-stat-wiki.github.io
 
 # Copyright
 copyright: 'Copyright &copy; 2023 THU Stat Wiki Team'
@@ -35,8 +35,11 @@ nav:
 theme:
   name: material
   icon:
-    logo: material/sigma-lower
+    # logo: material/sigma-lower
+    
     repo: fontawesome/brands/git-alt
+  logo: assets/images/logo.png
+  favicon: assets/images/favicon.jpg
   language: zh
   palette:
     # Palette toggle for light mode
