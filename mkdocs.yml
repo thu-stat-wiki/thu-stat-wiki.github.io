@@ -33,6 +33,10 @@ nav:
     - 科研相关: research/index.md
   - 保研出国:
     - 保研出国: placement/index.md
+    - 国内保研: 
+      - 国内保研: placement/domestic/index.md
+    - 海外申请:
+      - 国内保研: placement/abroad/index.md
   - 实用链接:
     - 实用链接: link/index.md
 

@@ -205,7 +205,7 @@ a.pkuredlink:hover{color:#FF0000;}
 ``` yaml
 ./placement
 └── abroad
-    └── <name of your directory> # (1)!
+    └── <your documentation directory> # (1)!
         ├── index.md # (2)!
         ├── <your doc1>.md
         ├── <your doc2 directory> # (3)！
