@@ -829,12 +829,20 @@
             
           
         
+          
+        
+          
+        
       
       
         
         
         <div class="md-nav__link md-nav__link--index ">
           <a href="../../placement/">保研出国</a>
+          
+            <label for="__nav_5">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
           
         </div>
       
@@ -845,6 +853,94 @@
         </label>
         <ul class="md-nav__list" data-md-scrollfix>
           
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_2" >
+      
+      
+        
+          
+            
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../placement/domestic/">国内保研</a>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_5_2">
+          <span class="md-nav__icon md-icon"></span>
+          国内保研
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5_3" >
+      
+      
+        
+          
+            
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../placement/abroad/">海外申请</a>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_5_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_5_3">
+          <span class="md-nav__icon md-icon"></span>
+          海外申请
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
             
           
         </ul>
@@ -1013,6 +1109,7 @@
 <p>本节介绍一些有助于你合适地布置<strong>单个页面</strong>内容的排版元素，合适的版面元素能够让你<u>更好地传递自己的想法，并让帖子更利于阅读</u>。本站页面的排版结构基于对应的 markdown  <code>.md</code> 文件，其基本的文档元素，如标题、文字效果、列表、代码块、超链接、数学公式等，都与 markdown 的编辑方式相同；另外还有一些额外由主题扩展提供的文档元素也将在下面介绍，你可以简单了解后将合适的排版元素放在页面的合适位置。</p>
 <p>如果你有一份想要变成网页内容的投稿但实在感到自己学不会或无法适应 markdown ，也可以联系我们寻求辅助（当然投稿最好别太长qwq）。</p>
 <h3 id="_2">基础元素<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h3>
+<p>这里有一些最为常用的 markdown 元素，更多基础元素可以在 <a href="https://markdown.com.cn/basic-syntax/">markdown 文档</a> 查到。</p>
 <ul>
 <li>
 <p><strong>标题和目录</strong>：合理地使用多级标题能够让文章层次更清晰，而且网站能够根据标题结构自动建立对应的目录，方便读者浏概览文章结构。具体实现上我们建议你使用 markdown 的 2 - 4 级标题<sup id="fnref:二到四级标题"><a class="footnote-ref" href="#fn:二到四级标题">2</a></sup>。</p>
@@ -1212,7 +1309,7 @@ a.pkuredlink:hover{color:#FF0000;}
 <p>如果你设想中的文档包含多个页面的话，可以将内容组织成一个多级目录，这将使得你的文档也以对应的页面集合呈现，一个目录结构的例子可以长这样：</p>
 <div class="language-yaml highlight"><pre><span></span><code><span id="__span-11-1"><a id="__codelineno-11-1" name="__codelineno-11-1" href="#__codelineno-11-1"></a><span class="l l-Scalar l-Scalar-Plain">./placement</span>
 </span><span id="__span-11-2"><a id="__codelineno-11-2" name="__codelineno-11-2" href="#__codelineno-11-2"></a><span class="l l-Scalar l-Scalar-Plain">└── abroad</span>
-</span><span id="__span-11-3"><a id="__codelineno-11-3" name="__codelineno-11-3" href="#__codelineno-11-3"></a><span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">└── &lt;name of your directory&gt;</span><span class="w"> </span><span class="c1"># (1)!</span>
+</span><span id="__span-11-3"><a id="__codelineno-11-3" name="__codelineno-11-3" href="#__codelineno-11-3"></a><span class="w">    </span><span class="l l-Scalar l-Scalar-Plain">└── &lt;your documentation directory&gt;</span><span class="w"> </span><span class="c1"># (1)!</span>
 </span><span id="__span-11-4"><a id="__codelineno-11-4" name="__codelineno-11-4" href="#__codelineno-11-4"></a><span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">├── index.md</span><span class="w"> </span><span class="c1"># (2)!</span>
 </span><span id="__span-11-5"><a id="__codelineno-11-5" name="__codelineno-11-5" href="#__codelineno-11-5"></a><span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">├── &lt;your doc1&gt;.md</span>
 </span><span id="__span-11-6"><a id="__codelineno-11-6" name="__codelineno-11-6" href="#__codelineno-11-6"></a><span class="w">        </span><span class="l l-Scalar l-Scalar-Plain">├── &lt;your doc2 directory&gt;</span><span class="w"> </span><span class="c1"># (3)！</span>
