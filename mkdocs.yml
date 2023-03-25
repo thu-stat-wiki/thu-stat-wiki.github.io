@@ -22,7 +22,7 @@ nav:
   - 统计课程:
     - 统计课程: course/index.md
     - 树洞统辅课程测评搬运:
-      - course/thuhole122635/index.md
+      - 树洞统辅课程测评搬运: course/thuhole122635/index.md
       - 课程教师: course/thuhole122635/instructor.md
       - 课程测评: course/thuhole122635/course.md
       - 先修关系: course/thuhole122635/workflow.md
@@ -36,7 +36,7 @@ nav:
     - 国内保研: 
       - 国内保研: placement/domestic/index.md
     - 海外申请:
-      - 国内保研: placement/abroad/index.md
+      - 海外申请: placement/abroad/index.md
   - 实用链接:
     - 实用链接: link/index.md
 
