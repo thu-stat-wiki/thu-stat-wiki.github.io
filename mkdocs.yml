@@ -1,6 +1,6 @@
 # The Project
 site_name: THU-Stat-Wiki
-site_description: THU Stat Wiki 是一个清华统辅课信息的汇聚站点，为大家学习统计知识、打破信息壁垒提供一个良好的平台。
+site_description: THU Stat Wiki 是一个清华统辅课信息的汇聚站点，旨在为大家学习统计知识、打破信息壁垒提供一个良好的平台。
 site_author: THU Stat Wiki Team
 site_url: https://thu-stat-wiki.github.io
 
@@ -14,7 +14,7 @@ copyright: 'Copyright &copy; 2023 THU Stat Wiki Team'
 # Content nav
 nav:
   - 首页: 
-    - Welcome: index.md
+    - Welcome to THU Stat Wiki: index.md
     - 关于: main/about.md
     - 参与投稿: main/join.md
     - 网页格式: main/format.md
