@@ -21,12 +21,7 @@ nav:
     - F. A. Q.: main/FAQ.md
   - 统计课程:
     - 统计课程: course/index.md
-    - 树洞统辅课程测评搬运:
-      - 树洞统辅课程测评搬运: course/thuhole122635/index.md
-      - 课程教师: course/thuhole122635/instructor.md
-      - 课程测评: course/thuhole122635/course.md
-      - 先修关系: course/thuhole122635/workflow.md
-      - 引用资源: course/thuhole122635/resource.md
+
   - 知识:
     - 知识: knowledge/index.md
   - 科研相关:
@@ -37,8 +32,15 @@ nav:
       - 国内保研: placement/domestic/index.md
     - 海外申请:
       - 海外申请: placement/abroad/index.md
-  - 实用链接:
-    - 实用链接: link/index.md
+  - 资源链接:
+    - 资源链接: link/index.md
+    - 树洞统辅课程测评搬运:
+      - 树洞统辅课程测评搬运: link/thuhole122635/index.md
+      - 课程教师: link/thuhole122635/instructor.md
+      - 课程测评: link/thuhole122635/course.md
+      - 先修关系: link/thuhole122635/workflow.md
+      - 引用资源: link/thuhole122635/resource.md
+
 
 
 # Theme

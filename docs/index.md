@@ -20,3 +20,8 @@ comments: true
 
 
 本项目基于 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)，开发过程还参考了[OI Wiki](https://oi-wiki.org/), [计算机系学生科协技能引导文档](https://docs.net9.org/), [ReadMe 软件学院互助文档](https://ssast-readme.github.io/) 和 [未央学习](https://weyoung-learn.github.io/)。
+
+------------------
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<!-- <span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span> -->
