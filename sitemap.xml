@@ -2,87 +2,92 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://thu-stat-wiki.github.io/</loc>
-         <lastmod>2023-03-27</lastmod>
+         <lastmod>2023-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thu-stat-wiki.github.io/course/</loc>
-         <lastmod>2023-03-27</lastmod>
+         <lastmod>2023-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://thu-stat-wiki.github.io/course/thuhole122635/</loc>
-         <lastmod>2023-03-27</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://thu-stat-wiki.github.io/course/thuhole122635/course/</loc>
-         <lastmod>2023-03-27</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://thu-stat-wiki.github.io/course/thuhole122635/instructor/</loc>
-         <lastmod>2023-03-27</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://thu-stat-wiki.github.io/course/thuhole122635/resource/</loc>
-         <lastmod>2023-03-27</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://thu-stat-wiki.github.io/course/thuhole122635/workflow/</loc>
-         <lastmod>2023-03-27</lastmod>
+         <loc>https://thu-stat-wiki.github.io/course/ElementaryProbability/</loc>
+         <lastmod>2023-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thu-stat-wiki.github.io/knowledge/</loc>
-         <lastmod>2023-03-27</lastmod>
+         <lastmod>2023-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thu-stat-wiki.github.io/link/</loc>
-         <lastmod>2023-03-27</lastmod>
+         <lastmod>2023-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://thu-stat-wiki.github.io/link/thuhole122635/</loc>
+         <lastmod>2023-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://thu-stat-wiki.github.io/link/thuhole122635/course/</loc>
+         <lastmod>2023-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://thu-stat-wiki.github.io/link/thuhole122635/instructor/</loc>
+         <lastmod>2023-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://thu-stat-wiki.github.io/link/thuhole122635/resource/</loc>
+         <lastmod>2023-03-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://thu-stat-wiki.github.io/link/thuhole122635/workflow/</loc>
+         <lastmod>2023-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thu-stat-wiki.github.io/main/FAQ/</loc>
-         <lastmod>2023-03-27</lastmod>
+         <lastmod>2023-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thu-stat-wiki.github.io/main/about/</loc>
-         <lastmod>2023-03-27</lastmod>
+         <lastmod>2023-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thu-stat-wiki.github.io/main/format/</loc>
-         <lastmod>2023-03-27</lastmod>
+         <lastmod>2023-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thu-stat-wiki.github.io/main/join/</loc>
-         <lastmod>2023-03-27</lastmod>
+         <lastmod>2023-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thu-stat-wiki.github.io/placement/</loc>
-         <lastmod>2023-03-27</lastmod>
+         <lastmod>2023-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thu-stat-wiki.github.io/placement/abroad/</loc>
-         <lastmod>2023-03-27</lastmod>
+         <lastmod>2023-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thu-stat-wiki.github.io/placement/domestic/</loc>
-         <lastmod>2023-03-27</lastmod>
+         <lastmod>2023-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://thu-stat-wiki.github.io/research/</loc>
-         <lastmod>2023-03-27</lastmod>
+         <lastmod>2023-03-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
