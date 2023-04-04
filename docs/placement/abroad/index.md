@@ -61,3 +61,10 @@
     -   [【选校信息-统计学】美国大学统计学Statistics硕士项目列表（2019）](https://www.douban.com/note/746823835/?_i=6306807z2j5EGW,0003390z2j5EGW)
     -   [2019Fall Biostatistics PhD申请小结](https://www.douban.com/note/729038527/?_i=6308855z2j5EGW,0003406z2j5EGW)
 
+
+## 个人申请总结
+
+!!! note "作者：[Mariana](https://mariana2000.github.io/) @ 2023/04"
+
+    个人的申请总结，内容有点多，先把链接贴在这里：
+    https://mariana2000.github.io/posts/2023/04/blog-post-summary/
